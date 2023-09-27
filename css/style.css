@@ -19,16 +19,16 @@ header{
     z-index: 1;
 }
 
-.card-container:hover .card-hover{
+.card-photo:hover .card-hover{
     z-index: 2;
 }
 
-.card-container > p{
+.card-photo > p{
     z-index: 5;
     border: solid;
 }
 
-.card-container .sales{
+.card-photo .sales{
     top: 450px;
     background-color: red;
     border-color: red;
@@ -37,7 +37,7 @@ header{
     font-size: 13px;
 }
 
-.card-container .sostenibility{
+.card-photo .sostenibility{
     top: 450px;
     left: 40px;
     background-color: green;
@@ -48,7 +48,7 @@ header{
 
 }
 
-.card-container .like{
+.card-photo .like{
     top: 20px;
     left: 318px;
     width: 35px;
@@ -58,6 +58,11 @@ header{
     border-color: white;
     background-color: white;
 }
+
+.like:hover{
+    color: red;
+}
+
 
 .card-container .brand{
     top: 510px;
