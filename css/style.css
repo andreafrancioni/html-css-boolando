@@ -29,7 +29,6 @@ header{
 #container{  
     flex-wrap: wrap;
     align-items: center;
-    height: 100px;
 }
 
 .card-photo:hover .card-hover{
