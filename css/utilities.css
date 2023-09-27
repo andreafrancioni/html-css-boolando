@@ -7,6 +7,11 @@
 .flex-justify-center { justify-content: center; }
 .flex-align-center { align-items: center; }
 
+/*** POSITION ***/
+.p-absolute { position: absolute; }
+.p-relative { position: relative; }
+.p-fixed { position: fixed; }
+
 /*** LARGHEZZE ***/
 .w-20 { width: 20%; } /* 1/5 */
 .w-25 { width: 25%; } /* 1/4 */
