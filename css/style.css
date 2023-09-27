@@ -95,3 +95,12 @@ header{
     color: black;
     text-decoration: line-through;
 }
+
+footer{
+    color: white;
+    margin-top: 100px;
+}
+
+.social{
+    font-size: 20px;
+}

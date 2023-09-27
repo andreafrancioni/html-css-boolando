@@ -1,5 +1,6 @@
 /*** FLEX ***/
 .d-flex {	display: flex;	}
+.d-inline { display: inline; }
 .flex-row {	flex-direction: row; }
 .flex-column { flex-direction: column; }
 .flex-justify-between { justify-content: space-between; }
@@ -94,3 +95,4 @@
 
 /*** BACKGROUND COLORS ***/
 .bg-orange { background-color: #FF6900; }
+.bg-black { background-color: black; }
